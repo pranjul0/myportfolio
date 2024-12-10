@@ -4,7 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
-import MyResume from "../../assets/Pranjul-resume.pdf";
+import MyResume from "../../assets/Pranjul_resume.pdf";
 import { FaDownload } from "react-icons/fa";
 export const Home = () => {
   const handleResumeDownload = () => {
