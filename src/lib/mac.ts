@@ -21,7 +21,6 @@ export const CONTACT = {
 export const LINKS = {
   email: "https://mail.google.com/mail/?view=cm&fs=1&to=pranzul09@gmail.com",
   phone: "tel:+919780481245",
-  instagram: "https://www.instagram.com/pranzulparnami/",
   linkedin: "https://www.linkedin.com/in/pranjul-parnami-091661172/",
   github: "https://github.com/pranjul0",
   resume: "https://drive.google.com/file/d/1vPsxn0HbJr69-lM67_iI2e79CaKQQ39D/view",
